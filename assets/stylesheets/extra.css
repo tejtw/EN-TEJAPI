@@ -1,0 +1,14 @@
+.md-header {
+    background-color: #0ab0c6    ;
+}
+
+.md-footer {
+    background-color: #0ab0c6    ;   
+    color: white;                
+  }
+
+/* 設定code blocks最大輸出高度 */
+.limited-height {
+    max-height: 50px;
+    overflow: auto;
+}
